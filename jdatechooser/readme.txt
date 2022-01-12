@@ -10,13 +10,12 @@ Install
 
 1) BeanBox: File -> LoadJar -> [library path]
 2) NetBeans: 
-  a) "Tools" -> "Library manager" -> "New library..." -> [Äàòü íàçâàíèå áèáëèîòåêå] -> "Add JAR/Folder" -> [library path] -> "OK"
+  a) "Tools" -> "Library manager" -> "New library..." -> [Ã„Ã Ã²Ã¼ Ã­Ã Ã§Ã¢Ã Ã­Ã¨Ã¥ Ã¡Ã¨Ã¡Ã«Ã¨Ã®Ã²Ã¥ÃªÃ¥] -> "Add JAR/Folder" -> [library path] -> "OK"
   b) "Tools" -> "Palette manager" -> "Swing/AWT components" -> "Add from library" -> [created library] -> [select need components] -> "Next" -> [select category] -> [Finish] 
 
 Visual editors and presentation are available in
 
 1) English
-2) Russian
 
 DateChooser.jar is a executable file, which allows visual customization of all included components (see presentation).
 
