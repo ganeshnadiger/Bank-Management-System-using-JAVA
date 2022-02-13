@@ -1,12 +1,12 @@
 
-Components
+###Components
 
 1) Calendar panel
 2) Calendar combobox
 3) Calendar dialog
 
 
-Install
+###Install
 
 1) BeanBox: File -> LoadJar -> [library path]
 2) NetBeans: 
